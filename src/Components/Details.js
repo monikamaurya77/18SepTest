@@ -33,7 +33,7 @@ const Details = (props) => {
                 </tr>
                 </tbody>
             </table>
-            <button>Submitted</button>
+            <button>All Active Deposite</button>
         </div>
     )
 }
