@@ -1,4 +1,4 @@
-import dp from "../assets/profile.jpg";
+import dp from "../assets/monika.jpeg";
 const Menu = () => {
     return (
         <div className = "flex">
